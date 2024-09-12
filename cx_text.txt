@@ -1,0 +1,1 @@
+-bash: ./new-qemu-instrument/build/qemu-loongarch64: No such file or directory
